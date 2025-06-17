@@ -1,7 +1,7 @@
 const CACHE_NAME = "notes-map-v3";
 const urlsToCache = [
   "/",
-  "main.html",
+  "index.html",
   "style.css",
   "/screenshots/screenshot-desktop.png",
   "/screenshots/screenshot-mobile.png",
