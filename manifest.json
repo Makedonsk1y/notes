@@ -76,6 +76,8 @@
   "lang": "ru",
   "name": "Notes Maps Application",
   "short_name": "Notes",
-  "start_url": ".",
-  "description": "This is an application for notes with map-orientation functionality"
+  "start_url": "/main.html",
+  "scope": "/",
+  "description": "Приложение для создания заметок с привязкой к карте. Хранит данные локально, работает офлайн.",
+  "categories": ["productivity", "maps", "utilities"]
 }
